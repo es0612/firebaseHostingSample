@@ -1,1 +1,6 @@
 # firebaseHostingSample
+
+## deploy
+```
+firebase deploy
+```
